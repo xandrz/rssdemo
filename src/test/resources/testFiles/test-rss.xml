@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<rss version="2.0">
+    <channel>
+        <title>Газета.Ru - Первая полоса</title>
+        <link>https://www.gazeta.ru/</link>
+        <description>Первая полоса одной из самых популярных российских интернет-газет. Российские и зарубежные новости в режиме он-лайн; важнейшие политические и экономические события в их развитии. Оригинальный взгляд, глубокий анализ и точный прогноз.</description>
+        <pubDate>Tue, 25 Jun 2019 09:40:34 +0300</pubDate>
+        <image>
+            <url>https://img.gazeta.ru/files3/677/4728677/gazeta_logo.jpg</url>
+            <title>Газета.Ru - Первая полоса</title>
+            <link>https://www.gazeta.ru/</link>
+        </image>
+        <language>ru</language>
+        <copyright>Gazeta.Ru</copyright>
+        <webMaster>webmaster@gazeta.ru Webmaster</webMaster>
+        <ttl>2</ttl>
+
+        <item>
+            <title>Андрей Колесников о забвении 22 июня 1941 года в нашем историческом сознании</title>
+            <link>https://www.gazeta.ru/comments/column/kolesnikov/12436387.shtml</link>
+            <author>Газета.Ru</author>
+            <category></category>
+            <pubDate>Tue, 25 Jun 2019 08:09:15 +0300</pubDate>
+            <description>22 июня. 78 лет с начала Великой Отечественной. Гробовая тишина, весь триумфальный официоз пришелся на 9 мая. По сравнению с советскими временами день начала войны не просто вспоминают реже &#x2013; его избегают вспоминать.
+
+                Это дата, ...</description>
+            <enclosure url="https://img.gazeta.ru/files3/253/8314253/levitan-pic905-895x505-51331.jpg" type="image/jpeg" />
+            <comments>https://www.gazeta.ru/comments/column/kolesnikov/12436387.shtml#comments</comments>
+            <guid isPermaLink="true">https://www.gazeta.ru/comments/column/kolesnikov/12436387.shtml</guid>
+        </item>
+
+        <item>
+            <title>Москвичей порежет &quot;барической пилой&quot;, предупреждают синоптики </title>
+            <link>https://www.gazeta.ru/social/2019/06/24/12438841.shtml</link>
+            <author>Александра Баландина</author>
+            <category>Общество</category>
+            <pubDate>Tue, 25 Jun 2019 09:00:58 +0300</pubDate>
+            <description>На этой неделе в Москве всего за несколько дней жаркое летнее солнце сменится осенними ливнями. В последних числах июня в столицу придут похолодание и сильные осадки, которые вернут температурные показатели в норму. Кроме того, ожидаются резкие скачки атмосферного давления, которые могут сказаться на здоровье метеозависимых людей.
+            </description>
+            <enclosure url="https://img.gazeta.ru/files3/907/12438907/TASS_23083918-pic905-895x505-57839.jpg" type="image/jpeg" />
+            <comments>https://www.gazeta.ru/social/2019/06/24/12438841.shtml#comments</comments>
+            <guid isPermaLink="true">https://www.gazeta.ru/social/2019/06/24/12438841.shtml</guid>
+        </item>
+
+        <item>
+            <title>При возвращении &quot;Союза&quot; произошла нештатная ситуация</title>
+            <link>https://www.gazeta.ru/science/2019/06/25_a_12439729.shtml</link>
+            <author>Отдел &quot;Наука&quot;</author>
+            <category>Наука</category>
+            <pubDate>Tue, 25 Jun 2019 08:43:30 +0300</pubDate>
+            <description>Нештатная ситуация произошла в самом начале спуска корабля &quot;Союз МС-11&quot;, на котором на Землю вернулись космонавт Олег Кононенко, а также астронавты Давид Сен-Жак и Энн Макклейн. О ней, как обычно бывает, сообщили американские коллеги Роскосмоса. На приземление отказ не повлиял, все члены экипажа чувствуют себя нормально. </description>
+            <enclosure url="https://img.gazeta.ru/files3/747/12439747/RTS2JJTP-pic905-895x505-73732.jpg" type="image/jpeg" />
+            <comments>https://www.gazeta.ru/science/2019/06/25_a_12439729.shtml#comments</comments>
+            <guid isPermaLink="true">https://www.gazeta.ru/science/2019/06/25_a_12439729.shtml</guid>
+        </item>
+        <rss2lj:owner xmlns:rss2lj="http://rss2lj.net/NS">gazeta_admin</rss2lj:owner>
+    </channel>
+</rss>

@@ -1,0 +1,13 @@
+spring:
+  h2.console:
+    enabled: true
+  datasource:
+    url: jdbc:h2:mem:test-db
+  liquibase:
+    change-log: classpath:db/changelog/liquibase-changelog.xml
+rss:
+  url: classpath:test/test-rss.xml
+  reload:
+    delay: 95000
+  initial:
+    delay: 90000000000
