@@ -2,6 +2,7 @@ package com.demo.rss.service;
 
 import com.demo.rss.dto.Article;
 import com.demo.rss.dto.RSSItem;
+import com.demo.rss.utils.mapping.Mapper;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

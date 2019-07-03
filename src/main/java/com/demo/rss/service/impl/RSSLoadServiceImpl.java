@@ -5,7 +5,7 @@ import com.demo.rss.dto.RSS;
 import com.demo.rss.dto.RSSChanel;
 import com.demo.rss.dto.RSSItem;
 import com.demo.rss.service.ArticleService;
-import com.demo.rss.service.Mapper;
+import com.demo.rss.utils.mapping.Mapper;
 import com.demo.rss.service.RSSLoadService;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.SerializationFeature;

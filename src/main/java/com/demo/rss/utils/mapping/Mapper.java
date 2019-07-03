@@ -1,4 +1,4 @@
-package com.demo.rss.service;
+package com.demo.rss.utils.mapping;
 
 import com.demo.rss.dto.Article;
 import com.demo.rss.dto.RSSItem;
